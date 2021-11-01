@@ -12,6 +12,7 @@ namespace git
             Console.WriteLine("some");
             Console.ReadLine();
             Console.WriteLine("change");
+            Console.WriteLine("branch new");
 
         }
     }
